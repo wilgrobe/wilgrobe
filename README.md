@@ -1,16 +1,17 @@
-## Hi there 👋
+# Will Groberg
 
-<!--
-**wilgrobe/wilgrobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PHP developer since PHP 3. I architect and build web applications, and I run my own in
+production through my firm, [Rock Court LLC](https://rockcourtllc.com).
 
-Here are some ideas to get you started:
+**Open source**
+- [ClaudePHPFramework](https://github.com/wilgrobe/claudephpframework) — an MIT-licensed modular
+  PHP 8 framework with compliance and security in the core: GDPR/CCPA/COPPA handling, an
+  HMAC-sealed audit log, RBAC, 2FA and OAuth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Live products built on it**
+- [StoriesDen](https://storiesden.com) — a writing studio for indie authors: plan, write, format
+  (EPUB + print PDF), publish and track a book in one place.
+- [MarketOtter](https://marketotter.com) — marketing planning and automation for people who build
+  things and dread marketing them.
+
+Available for contract work — integrations, legacy PHP, and data-driven apps, on any hosting.
